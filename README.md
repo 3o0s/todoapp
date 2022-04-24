@@ -16,5 +16,5 @@ A simple todoapp by flutter
 ![add page](https://github.com/TheBig3os/images/blob/main/todo2.png)
 
 ## Future updates 
-    Save the list of tasks using cloud
+    Save tasks using cloud
     Add tasks history page# todoapp
